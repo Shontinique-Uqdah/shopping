@@ -2,7 +2,7 @@
 CS50-AI shopping
 
 Run 
-pip3 install scikit-learn 
+` pip3 install scikit-learn `
 to install the scikit-learn package if it isn’t already installed, which you’ll need for this project.
 
 Initial commit and all associated code belongs to CS50ai course.
